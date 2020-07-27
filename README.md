@@ -94,8 +94,5 @@ Therefore, I don´t tolerate any brain dumps in this repo. And trust me - you wi
 
 And another recommendation is to keep your humbleness, no matter how good you will become. Measure yourself with yourself and try to become better every day. You will never reach a time where you can accept to stop learning, as there will always be something new.
 
-## Contact
-Feel free to contact me directly via [LinkedIn](https://www.linkedin.com/in/daviddasneves/) or [Twitter](https://twitter.com/david_das_neves).
-
 ___
  <a href="#top" title="Back to the top.">↑Top</a>
